@@ -1,12 +1,11 @@
 import React, { Component } from "react";
-import Full from "./Layout/Full";
-import "./App";
+import Routes from "./Routes";
 
 class App extends Component {
     render() {
         return (
             <div className="App">
-                <Full />
+                <Routes />
             </div>
         );
     }
