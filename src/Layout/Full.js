@@ -6,7 +6,7 @@ class Full extends Component {
     render() {
         return (
             <div className="body-content">
-                <button type="button" className="btn button-documentsMenu ">
+                <button type="button" className="btn button-previsao ">
                     <div className="col-md-12">
                         <img
                             src={snow}

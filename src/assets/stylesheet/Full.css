@@ -11,7 +11,7 @@ body {
     margin-right: -50%;
     transform: translate(-50%, -50%);
 }
-.button-documentsMenu {
+.button-previsao {
     width: calc(100%);
     max-width: 100%;
 
@@ -30,12 +30,12 @@ body {
     text-overflow: ellipsis;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7), 0 6px 20px 0 rgba(0, 0, 0, 0.6);
 }
-.button-documentsMenu:hover {
+.button-previsao:hover {
     transition: 0.7s;
     box-shadow: 0 16px 32px 0 rgba(0, 0, 0, 0.7),
         0 24px 80px 0 rgba(0, 0, 0, 0.6);
 }
-.button-documentsMenu:focus {
+.button-previsao:focus {
     outline: 0;
 }
 #textIntro {
